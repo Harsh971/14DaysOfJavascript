@@ -17,7 +17,7 @@
 | Status | Project Title | Completion Date | Source Code | Project Link |
 |:-: | :-:           |:-:              | :-:         | :-:          |
 | ✅ | Digital Clock             | 10-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Digital%20Clock) | [Click Here](https://14daysofjs-digitalclock.netlify.app/) |
-| ❌ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Analog%20Clock) | Coming Soon    |
+| ✅ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Analog%20Clock) | [Click Here](https://14daysofjs-analogclock.netlify.app/)    |
 | ❌ | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Month%20Calendar) | Coming Soon    |
 | ❌ | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | Coming Soon |
 | ❌ | Heart Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | Coming Soon    |
