@@ -18,8 +18,8 @@
 |:-: | :-:           |:-:              | :-:         | :-:          |
 | ✅ | Digital Clock             | 10-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Digital%20Clock) | [Click Here](https://14daysofjs-digitalclock.netlify.app/) |
 | ✅ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Analog%20Clock) | [Click Here](https://14daysofjs-analogclock.netlify.app/)    |
-|  ✅ | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Month%20Calendar) | [Click Here](https://14daysofjs-monthcalender.netlify.app//) |
-| ❌ | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | Coming Soon |
+| ✅ | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Month%20Calendar) | [Click Here](https://14daysofjs-monthcalender.netlify.app/) |
+| ✅ | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | [Click Here](https://14daysofjs-randompasswordgenerator.netlify.app/) |
 | ❌ | Heart Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | Coming Soon    |
 | ❌ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) | Coming Soon    |
 | ❌ | Sticky Navbar             | 16-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Sticky%20Navbar) | Coming Soon    |
