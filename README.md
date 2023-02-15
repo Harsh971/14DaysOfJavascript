@@ -21,7 +21,7 @@
 | ✅ | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Month%20Calendar) | [Click Here](https://14daysofjs-monthcalender.netlify.app/) |
 | ✅ | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | [Click Here](https://14daysofjs-randompasswordgenerator.netlify.app/) |
 | ✅ | Heart Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | [Click Here](https://14daysofjs-hearttrailanimation.netlify.app//) |
-| ✅ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) |https://14daysofjs-animatedsearchbar.netlify.app/|
+| ✅ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) |[Click Here](https://14daysofjs-animatedsearchbar.netlify.app/)|
 | ❌ | Sticky Navbar             | 16-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Sticky%20Navbar) | Coming Soon    |
 | ❌ | Dark Mode Toggle          | 17-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) | Coming Soon    |
 | ❌ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) |Coming Soon|
