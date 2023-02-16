@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://twitter.com/HarshThakkar971">
+  <a href="https://14daysofjs.netlify.app/">
     <img alt="Banner" height="100%" width="100%"  src="https://www.linkpicture.com/q/Banner_13.png">
   </a>
 </p>
