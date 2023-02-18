@@ -24,7 +24,7 @@
 | ✅ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) |[Click Here](https://14daysofjs-animatedsearchbar.netlify.app/)|
 | ✅ | Sticky Navbar             | 16-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Sticky%20Navbar) |[Click Here](https://14daysofjs-stickynavbar.netlify.app/)|
 | ✅ | Dark Mode Toggle          | 17-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) |[Click Here](https://14daysofjs-darkmodetoggle.netlify.app)|
-| ❌ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) |Coming Soon|
+| ✅ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) |[CLick Here](https://14daysofjs-autotexteffectanimation.netlify.app/)|
 | ❌ | Image Slider              | 19-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Image%20Slider) | Coming Soon    |
 | ❌ | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | Coming Soon    |
 | ❌ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/English%20Dictionary) | Coming Soon    |
