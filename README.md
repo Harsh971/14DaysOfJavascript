@@ -26,7 +26,7 @@
 | ✅ | Dark Mode Toggle          | 17-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) |[Click Here](https://14daysofjs-darkmodetoggle.netlify.app)|
 | ✅ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) |[CLick Here](https://14daysofjs-autotexteffectanimation.netlify.app/)|
 | ✅ | Image Slider              | 19-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Image%20Slider) |[CLick Here](https://14daysofjs-imageslider.netlify.app/)|
-| ❌ | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | Coming Soon    |
+| ✅ | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) |[CLick Here](https://14daysofjs-stepprogressbar.netlify.app/)|
 | ❌ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/English%20Dictionary) | Coming Soon    |
 | ❌ | Random Quote Generator    | 22-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Random%20Quote%20Generator) | Coming Soon    |
 | ❌ | Note App                  | 23-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Note%20App) | Coming Soon    |
