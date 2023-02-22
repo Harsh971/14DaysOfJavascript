@@ -29,7 +29,7 @@
 | ✅ | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) |[Click Here](https://14daysofjs-stepprogressbar.netlify.app/)|
 | ✅ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/English%20Dictionary) |[Click Here](https://14daysofjs-englishdictionary.netlify.app/)|
 | ✅ | Random Quote Generator    | 22-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Random%20Quote%20Generator) |[Click Here](https://14daysofjs-randomquotegenerator.netlify.app/)|
-| ❌ | Note App                  | 23-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Note%20App) | Coming Soon    |
+| ✅ | Note App                  | 23-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Note%20App) |[Click Here](https://14daysofjs-noteapp.netlify.app/)|
 
 
 
